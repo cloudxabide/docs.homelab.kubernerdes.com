@@ -35,3 +35,4 @@ The environment supports three deployment modes, selected via `ENVIRONMENT`:
 - **[Day 0 - Plan](/docs/day-0-plan)** — planning and architecture
 - **[Day 1 - Build](/docs/day-1-build)** — install Harvester, Rancher Manager, the Apps cluster (with Security), and Observability
 - **[Day 2 - Operate](/docs/day-2-operate)** — backups, RBAC, and ongoing operations
+- **[Deep Dives](/docs/deep-dives)** — product overview and background reading (air-gapping, load balancing, security model)

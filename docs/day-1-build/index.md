@@ -19,3 +19,5 @@ Standing up the core infrastructure and clusters:
 - Deploy sample workloads (chell-test, optional HexGL) to the Apps cluster — chell-test is the prerequisite target for the [Day 2 Security demo](/docs/day-2-operate)
 
 See the source repo's [PLAN.md](https://github.com/cloudxabide/homelab.kubernerdes.com/blob/main/PLAN.md) for the detailed, checkbox-tracked build steps, and [30_deploy_apps.sh](https://github.com/cloudxabide/homelab.kubernerdes.com/blob/main/Scripts/30_deploy_apps.sh) for the sample-workload deploy script.
+
+For the reasoning behind the Harvester load-balancer setup used by the Rancher Manager, Observability, and Apps clusters (IP pools, listeners, backend server selectors), see [Harvester Load Balancer](https://github.com/cloudxabide/homelab.kubernerdes.com/blob/main/DeepDive/Load_Balancer-Harvester.md) in [Deep Dives](/docs/deep-dives).
