@@ -27,7 +27,7 @@ The environment supports three deployment modes, selected via `ENVIRONMENT`:
 - SUSE Observability (StackState)
 - SUSE Linux Enterprise (SLE/SLES) / SUSE Linux Enterprise Micro (SL-Micro)
 - SUSE RKE2 (K3s when needed — not yet supported for the SUSE Security install)
-- RGS Hauler
+- Hauler
 - Harbor
 
 ## Guide Structure
